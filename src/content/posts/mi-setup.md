@@ -30,6 +30,8 @@ image: { url: "/mobo.jpg", alt: "Tarjeta Madre de computadora" }
 * **Audífonos:** JBL TN110
 * **Micrófono:** Yeyian Agile
 * **HDD Externo:** Western Digital WD Elements 2621 2TB
+* **Tableta Gráfica:** XP-Pen Deco 01 V2
+* **Gamepad:** Control rojo de Xbox One (2017 - 3<sup>ra</sup> generación)
 
 ## Teléfono
 * Xiaomi Redmi 9A (MIUI 12.5.6)
