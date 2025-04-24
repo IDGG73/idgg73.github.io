@@ -62,7 +62,7 @@ export const homePageContent: HomePageContent = {
       "Desarrollador de videojuegos que aprende cada día.",
     image: identity.logo,
   },
-  role: "Desarrollador de Videojuegos",
+  role: "Desarrollador de Videojuegos y Software .NET (C#)",
   description:
     "Soy un desarrollador de videojuegos que no deja de aprender cosas nuevas cada día. Actualmente utilizo el motor de Unity para trabajar en Chihuas Games y por mi cuenta.",
   socialLinks: socialLinks,
@@ -280,18 +280,18 @@ export const projectsPageContent: ProjectPageContent = {
   subtitle: "Echa un vistazo a mis trabajos.",
   projects: [
     {
-      title: "Ricina: The Alchemist [Demo]",
-      description: "Ricina es una jóven alquimista que vende pociones; desde tónicos para el cabello hasta letales venenos.",
-      image: "/games/landscape/ricina-demo.jpg",
-      year: "2025",
-      url: "https://idgg73.itch.io/ricina-the-alchemist-demo",
-    },
-    {
       title: "Afterlife Dreams",
       description: "Próximo lanzamiento de Chihuas Games.",
       image: "/games/landscape/afterlife-dreams.jpg",
       year: "En Desarrollo",
       url: "https://x.com/ChihuasGames/status/1813621788662014315",
+    },
+    {
+      title: "Ricina: The Alchemist [Demo]",
+      description: "Ricina es una jóven alquimista que vende pociones; desde tónicos para el cabello hasta letales venenos.",
+      image: "/games/landscape/ricina-demo.jpg",
+      year: "2025",
+      url: "https://idgg73.itch.io/ricina-the-alchemist-demo",
     },
     {
       title: "Bloomyth",
