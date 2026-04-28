@@ -13,21 +13,22 @@ image: { url: "/mobo.jpg", alt: "Tarjeta Madre de computadora" }
 * **GPU:** Nvidia GTX 1650 4GB GDDR6 (Marca Gigabyte)
 * **Tarjeta Madre:** Gigabyte A320M-SH2 V2
 * **RAM:** 16GB Kingston Fury Beast RGB 8GB 3200MHz KF432C16BBA (x2)
-* **SSD:** 240GB Kingston SA400S37240G
-* **HDD:** 1TB Samsung ST1000LM024 HN-M101MBB
 * **SSD:** 1TB Western Digital M.2 Blue SN570 WDS100T3B0C
+* **SSD:** 1TB Western Digital Green SATA 2.5
+* **SSD:** 240GB Kingston SA400S37240G
 * **Ventiladores Traseros:** Yeyian Typhoon YCT-050720B
-* **Gabinete:** Yaguaret Falcon
+* **Gabinete:** XPG Starker Air
 
 ## Pantallas
 * **Monitor Principal:** BenQ GW2490 (Un regalito que me dieron ❤️)
 * **Monitor Secundario:** BenQ GW2283
-* **Televisión:** AOC LE24H168 24"
+* **Monitor Terciario:** Samsung S19A33X
 
 ## Accesorios
 * **Mouse:** HyperX Pulsefire Core
 * **Teclado:** HyperX Alloy Core
-* **Audífonos:** JBL TN110
+* **Audífonos:** Corsair HS35
+* **Audífonos Secundarios:** UGREEN In-Ear Earphones 3.5mm
 * **Micrófono:** Yeyian Agile
 * **HDD Externo:** Western Digital WD Elements 2621 2TB
 * **Tableta Gráfica:** XP-Pen Deco 01 V2
@@ -36,12 +37,15 @@ image: { url: "/mobo.jpg", alt: "Tarjeta Madre de computadora" }
 ## Teléfono
 * Xiaomi Redmi 9A (MIUI 12.5.6)
 * iPod Touch 6<sup>ta</sup> Generación
+* Moto G5
 
 ## Consolas
 * Nintendo Wii
+* New Nintendo 3DS XL
+* Nintendo Switch Lite
 
 ## Software
-* **Motor de Videojuegos:** Unity (Tal vez cambie a Unreal Engine)
+* **Motor de Videojuegos:** Unity
 * **IDE:** Visual Studio Code para escribir Markdown. Visual Studio 2022 Community para todo lo demás.
 * **Modelado 3D:** Blender
 * **Edición de Audio:** Audacity
@@ -50,7 +54,7 @@ image: { url: "/mobo.jpg", alt: "Tarjeta Madre de computadora" }
 * **Edición de Texto:** Notepad++
 * **Edición de Gráficos Vectoriales:** Inkscape
 * **GUI Git:** GitHub Desktop
-* **Música:** YouTube Music
-* **Navegador Web:** Microsoft Edge con buscador Bing
+* **Música:** Spotify
+* **Navegador Web:** Microsoft Edge
 * **Utilidad:** Microsoft PowerToys
 * **Seguimiento de Tareas:** Trello
